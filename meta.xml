@@ -1,0 +1,12 @@
+<meta>
+	<info
+    name="wheelcamber"
+    author="maalos/regex/soczek"
+    version="1.0.0"
+    description="This scripts adds the ability to set the camber of wheels in vehicles. AFAIK it's the first open source one."
+    type="script"
+    />
+
+	<script src="c.lua" type="client" />
+	<script src="s.lua" type="server" />
+</meta>
